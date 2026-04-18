@@ -72,14 +72,14 @@ Manages discount codes and promotional offers.
 # Clone repository
 git clone <repo-url>
 
-```bash
+
 # setup env (us the env sample.)
 vi .env 
 
-```bash
+
 # Install dependencies
 npm install
 
-```bash
+
 # Run project
 npm start
